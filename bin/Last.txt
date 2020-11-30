@@ -1,0 +1,1 @@
+{MainWindow x:11 y:53 width:1013 height:716 Address:10 IPC:3 RAZ:2 HDB:0 }

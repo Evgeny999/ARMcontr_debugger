@@ -1,0 +1,4 @@
+ip:172.10.17.207 port:6666 channal:3 name:–јз,два,три;
+ip:172.10.17.207 port:6667 channal:1 name:PaltaTest;
+db:C:\Users\admin\Desktop\trob\db_k.dat;
+ip:172.10.17.209 port:3333 channal:3 name:cccc,1123,error;
